@@ -1,5 +1,5 @@
 {
-    "name": "bex/behat-screenshot",
+    "name": "smira2000/behat-screenshot",
     "version": "1.2.6",
     "type": "library",
     "description": "Extension for behat to help debug failing scenarios",
